@@ -32,12 +32,12 @@
 # How to run tests from CI - Jenkins
 
 1. In the directory where "jenkins.war" is downloaded, run this command "java -jar jenkins.war" to run jenkins
-2. Open http://6d4c-45-247-92-207.ngrok.io/job/SpriteCloudSeleniumTask/ to check the configured job
+2. Open http://0c11-45-247-92-207.ngrok.io/job/SpriteCloudSeleniumTask/ to check the configured job
 3. Run these 3 commands
   1. git checkout -b  Noref-trigger-tests-version-50
   2. git commit --allow-empty -m "trigger tests"
   3. git push -u origin  Noref-trigger-tests-version-50
 
 4. Then go to the repo on git, make pull request, and merge
-5. Check the triggered build on http://6d4c-45-247-92-207.ngrok.io/job/SpriteCloudSeleniumTask/
+5. Check the triggered build on http://0c11-45-247-92-207.ngrok.io/job/SpriteCloudSeleniumTask/
 6. After runnung the job, you will find test results in Extent report and testng report
