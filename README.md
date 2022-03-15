@@ -1,9 +1,10 @@
 # SpriteCloud
 
 # Reqirements
-Java v.15
-maven
-Jenkins
+- Java v.15
+- maven
+- Jenkins
+
 Repo Link: https://github.com/HudaKhaled/SpriteCloud
 
 # How to run tests manually
