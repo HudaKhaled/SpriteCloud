@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-15T18:26:58Z" name="Sprite Cloud Task Suite" finished-at="2022-03-15T18:28:13Z" duration-ms="75531">
+    <groups>
+    </groups>
+    <test started-at="2022-03-15T18:26:58Z" name="Sprite Cloud Task Test" finished-at="2022-03-15T18:28:13Z" duration-ms="75531">
+      <class name="Tests.HomeTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.HomeTest@5427c60c]" started-at="2022-03-15T18:26:58Z" name="setUp" finished-at="2022-03-15T18:27:03Z" duration-ms="4918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatePageTitle()[pri:0, instance:Tests.HomeTest@5427c60c]" started-at="2022-03-15T18:27:03Z" name="validatePageTitle" finished-at="2022-03-15T18:27:03Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.HomeTest@5427c60c]" started-at="2022-03-15T18:27:03Z" name="tearDown" finished-at="2022-03-15T18:27:04Z" duration-ms="815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.HomeTest -->
+      <class name="Tests.OverLappedElementTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.OverLappedElementTest@6366ebe0]" started-at="2022-03-15T18:28:04Z" name="setUp" finished-at="2022-03-15T18:28:08Z" duration-ms="3630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ScrollToElementAndEnterText()[pri:0, instance:Tests.OverLappedElementTest@6366ebe0]" started-at="2022-03-15T18:28:08Z" name="ScrollToElementAndEnterText" finished-at="2022-03-15T18:28:08Z" duration-ms="463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrollToElementAndEnterText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.OverLappedElementTest@6366ebe0]" started-at="2022-03-15T18:28:08Z" name="tearDown" finished-at="2022-03-15T18:28:09Z" duration-ms="714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.OverLappedElementTest@6366ebe0]" started-at="2022-03-15T18:28:09Z" name="setUp" finished-at="2022-03-15T18:28:13Z" duration-ms="3845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkPageTitle()[pri:0, instance:Tests.OverLappedElementTest@6366ebe0]" started-at="2022-03-15T18:28:13Z" name="checkPageTitle" finished-at="2022-03-15T18:28:13Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.OverLappedElementTest@6366ebe0]" started-at="2022-03-15T18:28:13Z" name="tearDown" finished-at="2022-03-15T18:28:13Z" duration-ms="735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.OverLappedElementTest -->
+      <class name="Tests.ClickTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.ClickTest@57f23557]" started-at="2022-03-15T18:27:45Z" name="setUp" finished-at="2022-03-15T18:27:49Z" duration-ms="3667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickBadBtn()[pri:0, instance:Tests.ClickTest@57f23557]" started-at="2022-03-15T18:27:49Z" name="clickBadBtn" finished-at="2022-03-15T18:27:49Z" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickBadBtn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.ClickTest@57f23557]" started-at="2022-03-15T18:27:49Z" name="tearDown" finished-at="2022-03-15T18:27:50Z" duration-ms="1173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.ClickTest@57f23557]" started-at="2022-03-15T18:27:50Z" name="setUp" finished-at="2022-03-15T18:27:53Z" duration-ms="3454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickTitleTest()[pri:0, instance:Tests.ClickTest@57f23557]" started-at="2022-03-15T18:27:53Z" name="clickTitleTest" finished-at="2022-03-15T18:27:53Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.ClickTest@57f23557]" started-at="2022-03-15T18:27:53Z" name="tearDown" finished-at="2022-03-15T18:27:54Z" duration-ms="858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.ClickTest -->
+      <class name="Tests.TextInputTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.TextInputTest@3d0f8e03]" started-at="2022-03-15T18:27:54Z" name="setUp" finished-at="2022-03-15T18:27:58Z" duration-ms="3577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CheckButtonText()[pri:0, instance:Tests.TextInputTest@3d0f8e03]" started-at="2022-03-15T18:27:58Z" name="CheckButtonText" finished-at="2022-03-15T18:27:58Z" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckButtonText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.TextInputTest@3d0f8e03]" started-at="2022-03-15T18:27:58Z" name="tearDown" finished-at="2022-03-15T18:28:00Z" duration-ms="1417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.TextInputTest@3d0f8e03]" started-at="2022-03-15T18:28:00Z" name="setUp" finished-at="2022-03-15T18:28:03Z" duration-ms="3542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickTitleTest()[pri:0, instance:Tests.TextInputTest@3d0f8e03]" started-at="2022-03-15T18:28:03Z" name="clickTitleTest" finished-at="2022-03-15T18:28:03Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.TextInputTest@3d0f8e03]" started-at="2022-03-15T18:28:03Z" name="tearDown" finished-at="2022-03-15T18:28:04Z" duration-ms="740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.TextInputTest -->
+      <class name="Tests.AJAXDataTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.AJAXDataTest@543e710e]" started-at="2022-03-15T18:27:21Z" name="setUp" finished-at="2022-03-15T18:27:25Z" duration-ms="3313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickAndWaitForDataToLoad()[pri:0, instance:Tests.AJAXDataTest@543e710e]" started-at="2022-03-15T18:27:25Z" name="clickAndWaitForDataToLoad" finished-at="2022-03-15T18:27:40Z" duration-ms="15379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickAndWaitForDataToLoad -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.AJAXDataTest@543e710e]" started-at="2022-03-15T18:27:40Z" name="tearDown" finished-at="2022-03-15T18:27:41Z" duration-ms="814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.AJAXDataTest@543e710e]" started-at="2022-03-15T18:27:41Z" name="setUp" finished-at="2022-03-15T18:27:44Z" duration-ms="3294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickTitleTest()[pri:0, instance:Tests.AJAXDataTest@543e710e]" started-at="2022-03-15T18:27:44Z" name="clickTitleTest" finished-at="2022-03-15T18:27:44Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.AJAXDataTest@543e710e]" started-at="2022-03-15T18:27:44Z" name="tearDown" finished-at="2022-03-15T18:27:45Z" duration-ms="764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.AJAXDataTest -->
+      <class name="Tests.SampleAppLoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.SampleAppLoginTest@15bfd87]" started-at="2022-03-15T18:27:04Z" name="setUp" finished-at="2022-03-15T18:27:07Z" duration-ms="3455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login()[pri:0, instance:Tests.SampleAppLoginTest@15bfd87]" started-at="2022-03-15T18:27:07Z" name="login" finished-at="2022-03-15T18:27:07Z" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.SampleAppLoginTest@15bfd87]" started-at="2022-03-15T18:27:07Z" name="tearDown" finished-at="2022-03-15T18:27:08Z" duration-ms="790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.SampleAppLoginTest@15bfd87]" started-at="2022-03-15T18:27:08Z" name="setUp" finished-at="2022-03-15T18:27:12Z" duration-ms="3452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithOutCredentials()[pri:0, instance:Tests.SampleAppLoginTest@15bfd87]" started-at="2022-03-15T18:27:12Z" name="loginWithOutCredentials" finished-at="2022-03-15T18:27:12Z" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithOutCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.SampleAppLoginTest@15bfd87]" started-at="2022-03-15T18:27:12Z" name="tearDown" finished-at="2022-03-15T18:27:12Z" duration-ms="775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.SampleAppLoginTest@15bfd87]" started-at="2022-03-15T18:27:12Z" name="setUp" finished-at="2022-03-15T18:27:16Z" duration-ms="3619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logout()[pri:0, instance:Tests.SampleAppLoginTest@15bfd87]" started-at="2022-03-15T18:27:16Z" name="logout" finished-at="2022-03-15T18:27:16Z" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.SampleAppLoginTest@15bfd87]" started-at="2022-03-15T18:27:16Z" name="tearDown" finished-at="2022-03-15T18:27:17Z" duration-ms="795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.SampleAppLoginTest@15bfd87]" started-at="2022-03-15T18:27:17Z" name="setUp" finished-at="2022-03-15T18:27:21Z" duration-ms="3368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="sampleAppLoginTitleTest()[pri:0, instance:Tests.SampleAppLoginTest@15bfd87]" started-at="2022-03-15T18:27:21Z" name="sampleAppLoginTitleTest" finished-at="2022-03-15T18:27:21Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleAppLoginTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.SampleAppLoginTest@15bfd87]" started-at="2022-03-15T18:27:21Z" name="tearDown" finished-at="2022-03-15T18:27:21Z" duration-ms="836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.SampleAppLoginTest -->
+    </test> <!-- Sprite Cloud Task Test -->
+  </suite> <!-- Sprite Cloud Task Suite -->
+</testng-results>

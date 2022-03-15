@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sprite Cloud Task Suite">
+
+    <listeners>
+        <listener class-name="ExtentReport_Listener.ExtentReporterNG" />
+    </listeners>
+
+
+    <test name="Sprite Cloud Task Test">
+        <classes>
+            <class name="Tests.HomeTest"/>
+            <class name="Tests.SampleAppLoginTest"/>
+            <class name="Tests.AJAXDataTest"/>
+            <class name="Tests.ClickTest"/>
+            <class name="Tests.TextInputTest"/>
+            <class name="Tests.OverLappedElementTest"/>
+        </classes>
+    </test>
+</suite>

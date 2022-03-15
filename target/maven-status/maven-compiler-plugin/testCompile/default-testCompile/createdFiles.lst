@@ -1,0 +1,6 @@
+Tests\TextInputTest.class
+Tests\ClickTest.class
+Tests\HomeTest.class
+Tests\SampleAppLoginTest.class
+Tests\AJAXDataTest.class
+Tests\OverLappedElementTest.class
